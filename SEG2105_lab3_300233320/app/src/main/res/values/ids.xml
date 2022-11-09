@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnResult" type="id" />
+    <item name="mainlayout" type="id" />
+    <item name="ButtonRow01" type="id" />
+    <item name="btn01" type="id" />
+    <item name="btn03" type="id" />
+    <item name="ButtonRow02" type="id" />
+    <item name="btn04" type="id" />
+    <item name="btn05" type="id" />
+    <item name="btn06" type="id" />
+    <item name="ButtonRow03" type="id" />
+    <item name="btn07" type="id" />
+    <item name="btn08" type="id" />
+    <item name="btn09" type="id" />
+    <item name="ButtonRow04" type="id" />
+</resources>
